@@ -2,8 +2,12 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #2 from leoviana00/feature-configu-autochangelog-repo [View](https://github.com/leoviana00/dio-dp-landing-page-html-css/commits/228090cc3ded6c0be176ff556682d45480e650b9)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-landing-page-html-css/commits/b1e2a26201203f81671a1e06d620c162891258b1)
+*  feat(html): pagina inicial [View](https://github.com/leoviana00/dio-dp-landing-page-html-css/commits/a80db6516698b008ca463aadfb4f1560a1b0bf40)
+*  feat(css): estilo [View](https://github.com/leoviana00/dio-dp-landing-page-html-css/commits/2c4f72003e0facfde73b7ec749a3fa9103510384)
+*  feat(images): add as imagens [View](https://github.com/leoviana00/dio-dp-landing-page-html-css/commits/5b1db51729312a4a0ed341a240695af030358d24)
 
 
 
